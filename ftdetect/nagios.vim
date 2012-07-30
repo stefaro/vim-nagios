@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *{etc,local,lib}/nagios*/*.{cache,cfg} set filetype=nagios
+autocmd BufNewFile,BufRead *{etc,local,lib}/nagios*/*.{cache,cfg} setfiletype nagios

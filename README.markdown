@@ -20,5 +20,5 @@ Ryder][4].
 [1]: https://github.com/vim-scripts/nagios-syntax
 [2]: http://www.vim.org/scripts/script.php?script_id=2261
 [3]: https://github.com/tejr/dotfiles
-[4]: http://sanctum.geek.nz/
+[4]: https://sanctum.geek.nz/
 

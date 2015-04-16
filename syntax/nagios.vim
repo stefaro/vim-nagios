@@ -82,6 +82,7 @@ syn keyword nagiosDirective contained service_notification_period stalking_optio
 syn keyword nagiosDirective contained sunday thursday timeperiod_name tuesday wednesday
 syn keyword nagiosDirective contained icon_image icon_image_alt vrml_image statusmap_image
 syn keyword nagiosDirective contained notes notes_url 2d_coords 3d_coords obsess_over_host inherits_parent
+syn keyword nagiosDirective contained can_submit_commands host_notifications_enabled service_notifications_enabled
 
 hi link nagiosComment Comment
 hi link nagiosLineComment Comment
